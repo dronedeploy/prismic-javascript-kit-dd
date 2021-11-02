@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://github.com/dronedeploy/prismic-javascript-kit-dd.git"
+    "url": "git+https://github.com/dronedeploy/prismic-javascript-kit-dd.git"
   },
   "main": "lib/prismic.js",
   "scripts": {
